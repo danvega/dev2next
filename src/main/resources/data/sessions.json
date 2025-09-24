@@ -1,0 +1,430 @@
+{
+  "conference": {
+    "name": "dev2next",
+    "year": 2025,
+    "dates": [
+      "2025-09-29",
+      "2025-09-30",
+      "2025-10-01",
+      "2025-10-02"
+    ],
+    "location": "The Broadmoor, Colorado Springs, CO",
+    "tracks": [
+      "Architecture",
+      "Java",
+      "AI",
+      "Leadership",
+      "Cloud",
+      "General"
+    ],
+    "rooms": [
+      "Salon DE",
+      "Salon ABC",
+      "Salon FGH",
+      "Eagles Nest",
+      "Rockrimmon",
+      "Aspen Leaf"
+    ],
+    "sessions": [
+      {
+        "day": "2025-09-29",
+        "time": "09:00",
+        "duration": "8 hr",
+        "title": "Practical AI Integration with Java: A Hands-On Workshop",
+        "speakers": [
+          "Dan Vega",
+          "Craig Walls"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Workshop",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-09-29",
+        "time": "09:00",
+        "duration": "8 hr",
+        "title": "Architecture as Code: Making Architecture Work",
+        "speakers": [
+          "Mark Richards",
+          "Neal Ford"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Workshop",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-09-29",
+        "time": "09:00",
+        "duration": "8 hr",
+        "title": "Cruising Along with Java: From Java 9 to 25",
+        "speakers": [
+          "Venkat Subramaniam"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Workshop",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-09-29",
+        "time": "09:00",
+        "duration": "8 hr",
+        "title": "Event Driven Architecture Workshop",
+        "speakers": [
+          "Daniel Hinojosa"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Workshop",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-09-29",
+        "time": "09:00",
+        "duration": "8 hr",
+        "title": "From Engineer to Leader: A Workshop for First-Time Tech Leaders",
+        "speakers": [
+          "Andrew Murphy"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Workshop",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-09-29",
+        "time": "19:00",
+        "duration": "30 min",
+        "title": "Welcome to dev2next",
+        "speakers": [
+          "Venkat Subramaniam"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "General Session",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-09-29",
+        "time": "19:30",
+        "duration": "1 hr",
+        "title": "Survival Under Fire: How to Stay Whole During Adversity",
+        "speakers": [
+          "Arthur Doler"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Keynote",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "The Intersection of Architecture and Data Topologies",
+        "speakers": [
+          "Mark Richards",
+          "Neal Ford"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Platform Engineering - Lessons learned from Java Platform @ Netflix",
+        "speakers": [
+          "Paul Bakker"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Test-Driven Development: It's easier than you think!",
+        "speakers": [
+          "Eric Deandrea"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Mastering the Linux command line",
+        "speakers": [
+          "Bert Jan Schrijver"
+        ],
+        "track": [
+          "Cloud"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Java Perf & Scale: Mastering Techniques for Efficient Applications",
+        "speakers": [
+          "Pratik Patel"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Navigating the Challenges of Implementing API Governance",
+        "speakers": [
+          "Marcelo Araujo"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "VDD: Value Driven Development 10 Golden Rules for incremental Greatness",
+        "speakers": [
+          "Michael Carducci"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "13:00",
+        "duration": "1 hr",
+        "title": "The value of learning and sharing",
+        "speakers": [
+          "Bert Jan Schrijver"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Keynote",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Documenting your architecture",
+        "speakers": [
+          "Raju Gandhi"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Fitness Function-driven Architecture",
+        "speakers": [
+          "Neal Ford"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Everything You Need to Know About Running LLMs Locally",
+        "speakers": [
+          "Cedric Clyburn"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Identifying Architectural Risk",
+        "speakers": [
+          "Mark Richards"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Data Access and Data Sharing in Microservices",
+        "speakers": [
+          "Mark Richards"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "13:00",
+        "duration": "1 hr",
+        "title": "Panel\u2014GenAI: Evolving or Eroding the Craft of Software Development?",
+        "speakers": [
+          "Frank Greco",
+          "Simon Ritter",
+          "Dan Vega",
+          "Jennifer Reif"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Keynote",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "How Netflix uses Java in 2025",
+        "speakers": [
+          "Paul Bakker"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Agentic GraphRAG: AI\u2019s Logical Edge",
+        "speakers": [
+          "Jennifer Reif"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "A Model for Holistic Software Architecture",
+        "speakers": [
+          "Michael Carducci"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Thinking Architecturally",
+        "speakers": [
+          "Nathaniel Schutta"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "13:00",
+        "duration": "1 hr",
+        "title": "Fundamentals of Software Engineering In the age of AI",
+        "speakers": [
+          "Dan Vega",
+          "Nathaniel Schutta"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Keynote",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Making significant Software Architecture decisions",
+        "speakers": [
+          "Bert Jan Schrijver"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "A Teacher, an Economist and a Developer Walk Into a Bar",
+        "speakers": [
+          "Adele Carpenter"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      }
+    ]
+  }
+}
