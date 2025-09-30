@@ -86,20 +86,6 @@
       },
       {
         "day": "2025-09-29",
-        "time": "09:00",
-        "duration": "8 hr",
-        "title": "From Engineer to Leader: A Workshop for First-Time Tech Leaders",
-        "speakers": [
-          "Andrew Murphy"
-        ],
-        "track": [
-          "Leadership"
-        ],
-        "type": "Workshop",
-        "room": "Aspen Leaf"
-      },
-      {
-        "day": "2025-09-29",
         "time": "19:00",
         "duration": "30 min",
         "title": "Welcome to dev2next",
@@ -107,7 +93,7 @@
           "Venkat Subramaniam"
         ],
         "track": [
-          "Leadership"
+          "General"
         ],
         "type": "General Session",
         "room": "Salon DE"
@@ -121,7 +107,7 @@
           "Arthur Doler"
         ],
         "track": [
-          "Leadership"
+          "General"
         ],
         "type": "Keynote",
         "room": "Salon DE"
@@ -227,6 +213,77 @@
       },
       {
         "day": "2025-09-30",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "A Million Ways to Fail in Production: Embracing Catastrophes for Fun and Profit",
+        "speakers": [
+          "Jonatan Ivanov"
+        ],
+        "track": [
+          "Cloud"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Refactoring to Eclipse Collections: Making Your Java Streams Leaner, Meaner, and Cleaner",
+        "speakers": [
+          "Vladimir Zakharov",
+          "Donald Raab"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Don’t Just Write Java: Secure It - From Greenfield to Legacy Systems",
+        "speakers": [
+          "Brian Vermeer"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "From Code to Crisis: The Psychological Toll of Layoffs and AI Disruption",
+        "speakers": [
+          "Sean Denton"
+        ],
+        "track": [
+          "General"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Platform Engineering: The Why, What and How",
+        "speakers": [
+          "Raju Gandhi"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-09-30",
         "time": "13:00",
         "duration": "1 hr",
         "title": "The value of learning and sharing",
@@ -255,6 +312,77 @@
       },
       {
         "day": "2025-09-30",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "What is an AI-native app and how do I build one? An overview of AI-native app architecture.",
+        "speakers": [
+          "William Lyon"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "From Mystery to Mastery: Decoding the JVM with Observability Tools",
+        "speakers": [
+          "Jonatan Ivanov",
+          "Pasha Finkelshteyn"
+        ],
+        "track": [
+          "Cloud"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Semantic Search from the Command Line",
+        "speakers": [
+          "Frank Greco"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Beyond Hierarchy: Embracing Decentralized Leadership for Agile & Engaged Organizations",
+        "speakers": [
+          "Atiq Amjad"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Getting Things Done for Technologists",
+        "speakers": [
+          "Kito Mann"
+        ],
+        "track": [
+          "General"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-09-30",
         "time": "16:00",
         "duration": "1 hr",
         "title": "Fitness Function-driven Architecture",
@@ -269,6 +397,77 @@
       },
       {
         "day": "2025-09-30",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Ensuring Zero Downtime: Resiliency Testing Strategy for Business-Critical Systems",
+        "speakers": [
+          "Aman Sardana",
+          "Vijay Kumar Soni"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Beyond Coding: Tools that Empower Java Developers in (Big) Corporations",
+        "speakers": [
+          "Rodrigo Graciano"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Going from containers, to pods, to Kubernetes – help for your developer environments!",
+        "speakers": [
+          "Cedric Clyburn"
+        ],
+        "track": [
+          "Cloud"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "30 Years of Java - How Did We Get Here?",
+        "speakers": [
+          "Simon Ritter"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Live Java Security Vulnerability Patching",
+        "speakers": [
+          "Josh Cummings"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-09-30",
         "time": "17:30",
         "duration": "1 hr",
         "title": "Everything You Need to Know About Running LLMs Locally",
@@ -280,6 +479,76 @@
         ],
         "type": "Talk",
         "room": "Salon DE"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Moving beyond technical debt",
+        "speakers": [
+          "Martin Hertz"
+        ],
+        "track": [
+          "General"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Microservices missteps and success stories",
+        "speakers": [
+          "Rafał Maciak"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Keeping Your Java Hot by Solving the JVM Warmup Problem",
+        "speakers": [
+          "Simon Ritter"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Spring magic explained",
+        "speakers": [
+          "Ties van de Ven"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-09-30",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Chaos Engineering Really Big GPUs",
+        "speakers": [
+          "Bryan Oliver"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
       },
       {
         "day": "2025-10-01",
@@ -297,6 +566,77 @@
       },
       {
         "day": "2025-10-01",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Codepocalypse Now: LangChain4j vs. Spring AI",
+        "speakers": [
+          "Viktor Gamov",
+          "Baruch Sadogursky"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Bootiful Spring Boot: A DOGumentary",
+        "speakers": [
+          "Josh Long"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Java Enable Preview: Vector API",
+        "speakers": [
+          "Daniel Hinojosa"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "(Re)introducing Spring Security",
+        "speakers": [
+          "Craig Walls"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Extending Functional Pipelines with Gatherers",
+        "speakers": [
+          "Venkat Subramaniam"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-10-01",
         "time": "10:45",
         "duration": "1 hr 15 min",
         "title": "Data Access and Data Sharing in Microservices",
@@ -311,9 +651,80 @@
       },
       {
         "day": "2025-10-01",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Thriving in an evolving software industry",
+        "speakers": [
+          "Glenn Renfro",
+          "Nathaniel Schutta"
+        ],
+        "track": [
+          "General"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "10 Things I Hate About Java",
+        "speakers": [
+          "Adele Carpenter"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Generic or Specific? Making sensible software design decisions",
+        "speakers": [
+          "Bert Jan Schrijver"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Securing AI Development: The Busy Java Developer's Playbook",
+        "speakers": [
+          "Brian Vermeer"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Java is Data!",
+        "speakers": [
+          "Billy Korando"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-10-01",
         "time": "13:00",
         "duration": "1 hr",
-        "title": "Panel\u2014GenAI: Evolving or Eroding the Craft of Software Development?",
+        "title": "Panel—GenAI: Evolving or Eroding the Craft of Software Development?",
         "speakers": [
           "Frank Greco",
           "Simon Ritter",
@@ -342,9 +753,165 @@
       },
       {
         "day": "2025-10-01",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Beyond REST: Crafting a Modern GraphQL API Live",
+        "speakers": [
+          "Dan Vega"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Quarkus for Spring Developers",
+        "speakers": [
+          "Eric Deandrea"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Property Based Testing and Test Containers",
+        "speakers": [
+          "Daniel Hinojosa"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "RoboCoders: Judgment Day – AI IDEs Face Off",
+        "speakers": [
+          "Viktor Gamov",
+          "Baruch Sadogursky"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Dear Developers, Zero CVEs != Secure Software",
+        "speakers": [
+          "Melissa McKay"
+        ],
+        "track": [
+          "Cloud"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Integrating LLMs in Java: A Practical Guide to Model Context Protocol",
+        "speakers": [
+          "Dan Vega"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Get old, go slow, write code!",
+        "speakers": [
+          "Tobias Modig"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Navigating Hybrid Cloud Challenges for Business-Critical Systems",
+        "speakers": [
+          "Aman Sardana",
+          "Vijay Kumar Soni"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Beyond Code: How Women Break Barriers and Build Powerful Personal Brands in Tech",
+        "speakers": [
+          "Garima Agarwal"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "How I Sidestepped 'Being Glue'",
+        "speakers": [
+          "Fatima Taj"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Reaping the Benefits of Ritual and Routine",
+        "speakers": [
+          "Arthur Doler"
+        ],
+        "track": [
+          "General"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-10-01",
         "time": "17:30",
         "duration": "1 hr",
-        "title": "Agentic GraphRAG: AI\u2019s Logical Edge",
+        "title": "Agentic GraphRAG: AI’s Logical Edge",
         "speakers": [
           "Jennifer Reif"
         ],
@@ -353,6 +920,76 @@
         ],
         "type": "Talk",
         "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Designing Cloud Native Delivery Systems",
+        "speakers": [
+          "Bryan Oliver"
+        ],
+        "track": [
+          "Cloud"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Bridging the Gap: Full-Stack Development Without the Headaches",
+        "speakers": [
+          "Loïc Magnette"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Java and the Internet of Things",
+        "speakers": [
+          "Barry Burd"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "9 Management Habits Quietly Burning Out Your Best Engineers",
+        "speakers": [
+          "Andrew Murphy"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-01",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Adapting to Adversity – How Chaos Creates Resilience",
+        "speakers": [
+          "Christina Aldan"
+        ],
+        "track": [
+          "General"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
       },
       {
         "day": "2025-10-02",
@@ -370,6 +1007,77 @@
       },
       {
         "day": "2025-10-02",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Pouring AI Sauce on Your Architecture",
+        "speakers": [
+          "Nathaniel Schutta",
+          "Glenn Renfro"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Bootiful Spring AI",
+        "speakers": [
+          "Josh Long"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "The Past, Present, and Future of Enterprise Java",
+        "speakers": [
+          "Ivar Grimstad"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "Finding and Crushing Bugs and More with JFR",
+        "speakers": [
+          "Billy Korando"
+        ],
+        "track": [
+          "Cloud"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "09:00",
+        "duration": "1 hr 15 min",
+        "title": "ADRs: The Why and How",
+        "speakers": [
+          "Venkat Subramaniam"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-10-02",
         "time": "10:45",
         "duration": "1 hr 15 min",
         "title": "Thinking Architecturally",
@@ -381,6 +1089,76 @@
         ],
         "type": "Talk",
         "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Cognitive Load in Code: Why Simplicity Wins in System Design",
+        "speakers": [
+          "Pranay Singhal"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Nix: Sandbox and Reproducible Builds",
+        "speakers": [
+          "Daniel Hinojosa"
+        ],
+        "track": [
+          "Cloud"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "JUnit Tests Need Refactoring, Too",
+        "speakers": [
+          "Ted M. Young"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Escaping Architecture Ivory Tower with Architecture Pattern Catalog",
+        "speakers": [
+          "Vladimir Zakharov"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "10:45",
+        "duration": "1 hr 15 min",
+        "title": "Bridging the Digital Divide: Empowering Accessibility Through AI Innovations",
+        "speakers": [
+          "Scott Davis"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
       },
       {
         "day": "2025-10-02",
@@ -413,6 +1191,76 @@
       },
       {
         "day": "2025-10-02",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Event-Sourcing From Scratch",
+        "speakers": [
+          "Ted M. Young"
+        ],
+        "track": [
+          "Architecture"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Using Model Context Protocol in Real-World Applications",
+        "speakers": [
+          "Ramnivas Laddad"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Observability and Tracing with Spring",
+        "speakers": [
+          "Craig Walls"
+        ],
+        "track": [
+          "Cloud"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "OOP vs. Data Oriented Programming: Which One to Choose?",
+        "speakers": [
+          "Venkat Subramaniam"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "14:15",
+        "duration": "1 hr 15 min",
+        "title": "Meet the Accessibility in Your Pocket",
+        "speakers": [
+          "Scott Davis"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-10-02",
         "time": "16:00",
         "duration": "1 hr",
         "title": "A Teacher, an Economist and a Developer Walk Into a Bar",
@@ -420,10 +1268,164 @@
           "Adele Carpenter"
         ],
         "track": [
-          "Leadership"
+          "General"
         ],
         "type": "Talk",
         "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Strange Encounters: Java and Quantum Computing",
+        "speakers": [
+          "Barry Burd"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Engineering a Better Java Build Tool Experience",
+        "speakers": [
+          "Haoyi Li"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Learning to Lead as an Individual Contributor",
+        "speakers": [
+          "Fatima Taj"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Owning Your Experience: Talking about Mental Health In the Workplace",
+        "speakers": [
+          "Arthur Doler"
+        ],
+        "track": [
+          "General"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "16:00",
+        "duration": "1 hr",
+        "title": "Improving API Design with the help of LLM",
+        "speakers": [
+          "Marcelo Araujo"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Three engineering practices that keep your software easy to change",
+        "speakers": [
+          "Kieran Murphy"
+        ],
+        "track": [
+          "General"
+        ],
+        "type": "Talk",
+        "room": "Salon DE"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Empowering Your Development with FP: Understanding and Practice",
+        "speakers": [
+          "Ties van de Ven"
+        ],
+        "track": [
+          "Java"
+        ],
+        "type": "Talk",
+        "room": "Salon ABC"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Lessons Learned from Video Game Accessibility",
+        "speakers": [
+          "Lucia Greco"
+        ],
+        "track": [
+          "AI"
+        ],
+        "type": "Talk",
+        "room": "Salon FGH"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "Building a Culture of Healthy Conflict in Tech Teams",
+        "speakers": [
+          "Andrew Murphy"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Eagles Nest"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "How good of a developer are you?",
+        "speakers": [
+          "Roy Wasse"
+        ],
+        "track": [
+          "Leadership"
+        ],
+        "type": "Talk",
+        "room": "Rockrimmon"
+      },
+      {
+        "day": "2025-10-02",
+        "time": "17:30",
+        "duration": "1 hr",
+        "title": "TODO or not TODO",
+        "speakers": [
+          "Kito Mann"
+        ],
+        "track": [
+          "General"
+        ],
+        "type": "Talk",
+        "room": "Aspen Leaf"
       }
     ]
   }

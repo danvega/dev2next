@@ -22,7 +22,7 @@ class SessionToolsTest {
         List<Session> sessions = sessionTools.getSessions();
 
         // Then - we should have the expected number of sessions
-        assertThat(sessions).hasSize(28);
+        assertThat(sessions).hasSize(99);
 
         // And - sessions should have the correct structure
         Session firstSession = sessions.get(0);
@@ -67,7 +67,7 @@ class SessionToolsTest {
         long totalSessions = sessionCountsByDate.values().stream()
                 .mapToLong(Long::longValue)
                 .sum();
-        assertThat(totalSessions).isEqualTo(28);
+        assertThat(totalSessions).isEqualTo(99);
     }
 
     @Test
@@ -103,7 +103,7 @@ class SessionToolsTest {
         assertThat(conference.dates()).hasSize(4);
         assertThat(conference.tracks()).contains("Java", "Architecture", "AI", "Leadership", "Cloud");
         assertThat(conference.rooms()).contains("Salon DE", "Salon ABC", "Salon FGH");
-        assertThat(conference.sessions()).hasSize(28);
+        assertThat(conference.sessions()).hasSize(99);
     }
 
     @Test
@@ -127,7 +127,7 @@ class SessionToolsTest {
         long totalSessions = sessionCountsByType.values().stream()
                 .mapToLong(Long::longValue)
                 .sum();
-        assertThat(totalSessions).isEqualTo(28);
+        assertThat(totalSessions).isEqualTo(99);
 
         // And - manually verify counts match actual data
         List<Session> allSessions = sessionTools.getSessions();
@@ -157,5 +157,27 @@ class SessionToolsTest {
         // And - count should match our tool method
         var javaCount = sessionTools.countSessionsByTrack("Java");
         assertThat((Long) javaCount.get("count")).isEqualTo(javaSessions.size());
+    }
+
+    @Test
+    void shouldGetWorkshopSessions() {
+        // Given - we have workshop sessions in the data
+
+        // When - we get all workshops
+        List<Session> workshops = sessionTools.getWorkshops();
+
+        // Then - we should have exactly 4 workshops
+        assertThat(workshops).hasSize(4);
+
+        // And - all sessions should be of type Workshop
+        assertThat(workshops).allSatisfy(session ->
+            assertThat(session.type()).isEqualTo(SessionType.WORKSHOP));
+
+        // And - workshops should have valid structure
+        assertThat(workshops).allSatisfy(session -> {
+            assertThat(session.title()).isNotEmpty();
+            assertThat(session.duration()).isEqualTo("8 hr");
+            assertThat(session.speakers()).isNotEmpty();
+        });
     }
 }

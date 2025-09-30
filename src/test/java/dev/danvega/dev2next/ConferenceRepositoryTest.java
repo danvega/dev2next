@@ -25,7 +25,7 @@ class ConferenceRepositoryTest {
         assertThat(conference.dates()).hasSize(4);
         assertThat(conference.tracks()).contains("Java", "Architecture", "AI", "Leadership", "Cloud", "General");
         assertThat(conference.rooms()).contains("Salon DE", "Salon ABC", "Salon FGH");
-        assertThat(conference.sessions()).hasSize(28);
+        assertThat(conference.sessions()).hasSize(99);
     }
 
     @Test

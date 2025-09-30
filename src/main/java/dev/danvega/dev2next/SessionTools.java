@@ -27,6 +27,13 @@ public class SessionTools {
         return repository.getConference().sessions();
     }
 
+    @McpTool(name = "dev2Next-get-workshops", description = "Get a list of all workshop sessions")
+    public List<Session> getWorkshops() {
+        return repository.getConference().sessions().stream()
+                .filter(session -> session.type() == SessionType.WORKSHOP)
+                .toList();
+    }
+
     @McpTool(name = "dev2Next-sessions-by-date", description = "Returns the count of sessions by date")
     public Map<String,Long> countSessionsByDate() {
         return repository.getConference().sessions().stream()

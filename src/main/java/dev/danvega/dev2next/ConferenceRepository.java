@@ -27,7 +27,7 @@ public class ConferenceRepository {
 
     @PostConstruct
     public void init() {
-        log.info("Loading Conference data from JSON file 'sessions.json'");
+        log.info("Loading Conference data from JSON file 'sessions_backup.json'");
         try (InputStream inputStream = TypeReference.class.getResourceAsStream("/data/sessions.json")) {
             var jsonNode = objectMapper.readTree(inputStream);
             var conferenceNode = jsonNode.get("conference");
