@@ -1,0 +1,24 @@
+app = "dev2next"
+primary_region = "dfw"
+
+[build]
+    builder = "paketobuildpacks/builder:base"
+
+[build.args]
+    BP_JVM_VERSION = "17"
+
+[env]
+    SPRING_PROFILES_ACTIVE = "http"
+
+[vm]
+    cpu_kind = "shared"
+    cpus = 1
+    memory_mb = 1024
+
+[http_service]
+    internal_port = 8080
+    force_https = true
+    auto_stop_machines = "stop"
+    auto_start_machines = true
+    min_machines_running = 0
+    processes = ["app"]
